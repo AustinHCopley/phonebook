@@ -38,4 +38,8 @@ The user selects one of the 5 options
   
   User is given the choice to cancel the action or go through with it
   
+<<<<<<< HEAD
 #### could use a lot of refactoring and object orientation
+=======
+#### could use a lot of refactoring and object orientation
+>>>>>>> refs/remotes/origin/main
